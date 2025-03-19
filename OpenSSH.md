@@ -11,6 +11,7 @@ Run:
 ```bash
 ls -l ~/.ssh/id_ed25519.pub
 ```
+
 - If the file **exists**, skip to Step 3.
 - If **not found**, move to Step 2.
 
@@ -98,7 +99,5 @@ git push origin main
 git pull origin main
 ```
 
----
-
 # GitHub SSH authentication is now set up!
-```
+
