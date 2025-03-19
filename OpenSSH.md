@@ -8,6 +8,7 @@ This guide explains how to generate and add SSH keys for GitHub authentication.
 ## 1. Check for Existing SSH Keys
 
 Run:
+
 ```bash
 ls -l ~/.ssh/id_ed25519.pub
 ```
